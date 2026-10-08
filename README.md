@@ -16,7 +16,7 @@ The dashboard helps understand monthly sales trends, customer demographics, orde
 
 ## Dashboard Preview
 
-![Vrinda Store Annual Sales Dashboard](images/dashboard-preview.png)
+![Vrinda Store Annual Sales Dashboard](dashboard-preview.png)
 
 ## Key Performance Areas
 
